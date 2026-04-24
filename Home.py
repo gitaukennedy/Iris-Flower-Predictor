@@ -12,6 +12,7 @@ Use the sidebar to navigate through:
 - 📊 Dataset overview  
 - 🔍 Exploratory Data Analysis  
 - 🌸 Prediction tool  
+- 🧠 ken made it out of boredom
 """)
 
 
